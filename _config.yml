@@ -17,7 +17,7 @@ name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://std133510.github.io/gr/"
 baseurl                  : "/gr"
-repository               : "std133510/gr"
+repository               : "/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
