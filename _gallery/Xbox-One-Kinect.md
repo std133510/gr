@@ -1,5 +1,5 @@
 ---
-author: evabat
+author: 
 title: kinect
 image_url: /images/Xbox-One-Kinect.jpg
 caption: 'jgfjfjgfkxfkxhkxkxhkxkx'
