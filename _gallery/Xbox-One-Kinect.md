@@ -6,7 +6,7 @@ caption: 'Το Kinect είναι συσκευή εισόδου που δημιο
 license_url: 'https://en.wikipedia.org/wiki/File:Xbox-One-Kinect.jpg'
 license_text: Evan-Amos
 categories:
-  - input-devices
+  - input-device
 tags:
   - Microsoft
   - Xbox
